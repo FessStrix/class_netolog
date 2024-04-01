@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "class_netolog", "class_netolog.csproj", "{8E4450B5-B156-4AF7-99EE-C50B2C642447}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E4450B5-B156-4AF7-99EE-C50B2C642447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E4450B5-B156-4AF7-99EE-C50B2C642447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E4450B5-B156-4AF7-99EE-C50B2C642447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E4450B5-B156-4AF7-99EE-C50B2C642447}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBC8784B-FFF9-4271-A0EA-C0FFFF29D4A9}
+	EndGlobalSection
+EndGlobal
